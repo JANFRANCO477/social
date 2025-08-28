@@ -1,0 +1,46 @@
+# Facebook y Meta
+facebook.com
+fbcdn.net
+messenger.com
+instagram.com
+cdninstagram.com
+threads.net
+
+# TikTok
+tiktok.com
+tiktokcdn.com
+
+# Twitter / X
+twitter.com
+twimg.com
+
+# YouTube / Google
+youtube.com
+ytimg.com
+googlevideo.com
+
+# Snapchat
+snapchat.com
+scdn.co
+
+# LinkedIn
+linkedin.com
+licdn.com
+
+# Reddit
+reddit.com
+redd.it
+
+# Pinterest
+pinterest.com
+pinimg.com
+
+# Discord
+discord.com
+discordapp.com
+discord.gg
+
+# Twitch
+twitch.tv
+ttvnw.net
+
